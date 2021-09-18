@@ -1,3 +1,3 @@
 # Real-Estate-Price-Prediction-Model
 
-Choose master channel
+Go to the master branch.
